@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# TypeScript output directory
+dist/
+
+# production
+/build
+
+# TypeScript configuration file
+tsconfig.tsbuildinfo
+
+# npm logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# VSCode settings folder
+.vscode/
+
+# MacOS Finder
+.DS_Store
+
+# Operating System files
+Thumbs.db
+
+# Logs
+*.log
+
+# Coverage directory from testing
+coverage/
+
+# Husky configuration
+.husky/
+
+# Temporary files
+*.swp
+*.swo
+
+# Environment variables file
+.env
+
+# Prettier config file (optional, if using in specific environments)
+.prettierignore
